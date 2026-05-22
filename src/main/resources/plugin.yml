@@ -1,0 +1,4 @@
+name: NullTroll
+version: '${project.version}'
+main: org.nooll.nulltroll.NullTroll
+api-version: '1.16'
